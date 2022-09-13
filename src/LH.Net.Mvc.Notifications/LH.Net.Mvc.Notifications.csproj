@@ -2,11 +2,11 @@
 
 	<PropertyGroup>
 		<TargetFramework>net6.0</TargetFramework>
-		<PackageId>LH.Net.Mvc.Notification</PackageId>
+		<PackageId>LH.Net.Mvc.Notifications</PackageId>
 		<Version>1.0.0</Version>
 		<Authors>Leon Hancock</Authors>
 		<Company>Leon Hancock</Company>
-		<Product>LH.Net.Mvc.Notification</Product>
+		<Product>LH.Net.Mvc.Notifications</Product>
 		<Description>ASP.NET MVC Package for notifications</Description>
 		<Copyright>Leon Hancock</Copyright>
 		<RepositoryUrl>https://github.com/xL30N/LH.Net.Mvc.Notifications</RepositoryUrl>
