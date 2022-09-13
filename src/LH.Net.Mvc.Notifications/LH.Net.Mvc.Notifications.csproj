@@ -9,7 +9,7 @@
 		<Product>LH.Net.Mvc.Notification</Product>
 		<Description>ASP.NET MVC Package for notifications</Description>
 		<Copyright>Leon Hancock</Copyright>
-		<RepositoryUrl>https://github.com/xL30N/LH.Net.Mvc.Notification</RepositoryUrl>
+		<RepositoryUrl>https://github.com/xL30N/LH.Net.Mvc.Notifications</RepositoryUrl>
 	</PropertyGroup>
 
 	<ItemGroup>
